@@ -4,7 +4,7 @@
 
 An interactive and visually appealing web application for browsing, searching, and downloading a curated collection of high-quality wallpapers. Built with Vue.js and Tailwind CSS, featuring a distinct neon teal aesthetic.
 
-**Live Demo:** [[https://alexandrosliaskos.github.io/Awesome_Wallpapers/](https://cinemapattukal.github.io/Awesome_Wallpapers/)](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
+**Live Demo:** [https://alexandrosliaskos.github.io/Awesome_Wallpapers/](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
 
 ![image](https://github.com/user-attachments/assets/f66d7b63-297b-4a28-addd-234be641d48d)
 
