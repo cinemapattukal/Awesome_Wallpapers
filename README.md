@@ -54,7 +54,7 @@ To run this project locally:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/AlexandrosLiaskos/Awesome_Wallpapers.git
+    git clone https://github.com/cinemapattukal/Awesome_Wallpapers.git
     ```
 2.  Navigate to the project directory:
     ```bash
